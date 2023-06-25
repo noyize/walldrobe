@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Walldrobe</string>
+    <string name="search_bar_hint">Search photos &amp; collections</string>
+    <string name="latest_photos_description">Explore the latest images from the Unsplash editorial</string>
+    <string name="curated">Curated</string>
+    <string name="curated_photos_description">From epic drone shots to inspiring moments in nature</string>
+    <string name="more">More</string>
+    <string name="latest">Latest</string>
+    <string name="topics">Topics</string>
+    <string name="topics_description">Explore professionaly organised collections</string>
+    <string name="photos">Photos</string>
+    <string name="collections">Collections</string>
+    <string name="likes">Likes</string>
 </resources>
